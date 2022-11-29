@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/LouisHouston/louishoustonportfolio/static/css/main.160069d6.css",
-    "main.js": "/LouisHouston/louishoustonportfolio/static/js/main.d4b08026.js",
-    "static/media/blue-tech-background.jpeg": "/LouisHouston/louishoustonportfolio/static/media/blue-tech-background.7d17bf6e1948b0dd8112.jpeg",
-    "index.html": "/LouisHouston/louishoustonportfolio/index.html",
-    "main.160069d6.css.map": "/LouisHouston/louishoustonportfolio/static/css/main.160069d6.css.map",
-    "main.d4b08026.js.map": "/LouisHouston/louishoustonportfolio/static/js/main.d4b08026.js.map"
+    "main.css": "/louishoustonportfolio/static/css/main.160069d6.css",
+    "main.js": "/louishoustonportfolio/static/js/main.6ee76b27.js",
+    "static/media/blue-tech-background.jpeg": "/louishoustonportfolio/static/media/blue-tech-background.7d17bf6e1948b0dd8112.jpeg",
+    "index.html": "/louishoustonportfolio/index.html",
+    "main.160069d6.css.map": "/louishoustonportfolio/static/css/main.160069d6.css.map",
+    "main.6ee76b27.js.map": "/louishoustonportfolio/static/js/main.6ee76b27.js.map"
   },
   "entrypoints": [
     "static/css/main.160069d6.css",
-    "static/js/main.d4b08026.js"
+    "static/js/main.6ee76b27.js"
   ]
 }
