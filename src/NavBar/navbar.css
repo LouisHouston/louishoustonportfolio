@@ -1,0 +1,19 @@
+.github {
+    padding-left: 20px;
+    color:  white;
+}
+
+.github :hover{
+    color:purple;
+}
+
+.linkedin :hover {
+    color:#0072b1;
+}
+
+.fa-2xl {
+    color:grey;
+}
+
+
+
