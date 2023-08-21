@@ -4,7 +4,7 @@ import './Carousel.css';
 const Carousel = () => {
 
   const slides = [
-    { url: "aids.jpeg", title: "beach", description: "QRstorage", tech:["React", "Firebase", "Bootstrap5"]},
+    { url: "qrstorage.PNG", title: "beach", description: "QRstorage", tech:["React", "Firebase", "Bootstrap5"], a:"https://louishouston.github.io/qrstoragev2/boxes"},
     { url: "", title: "boat", description: "Corpus Colusum", tech:["React", "Firebase", "Bootstrap5"]},
     { url: "", title: "forest" , description: "Rager", tech:["Python", "PIL", "C++"]}
   ];

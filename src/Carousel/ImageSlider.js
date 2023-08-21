@@ -19,6 +19,7 @@ const rightArrowStyles = {
   color: "#fff",
   zIndex: 1,
   cursor: "pointer",
+  color: "purple"
 };
 
 const leftArrowStyles = {
@@ -30,6 +31,7 @@ const leftArrowStyles = {
   color: "#fff",
   zIndex: 1,
   cursor: "pointer",
+  color: "purple"
 };
 
 const sliderStyles = {
@@ -86,7 +88,7 @@ const ImageSlider = ({ slides }) => {
         Oh! You found me!
       </div>
       <div style={slideStylesWidthBackground}></div>
-      <div className="description"> {slides[currentIndex].description} {listTechNames} </div>
+      <a className="description" href={slides[currentIndex.a]}> {slides[currentIndex].description} {listTechNames} </a>
       <div style={dotsContainerStyles}> 
         {slides.map((slide, slideIndex) => (
           <div
