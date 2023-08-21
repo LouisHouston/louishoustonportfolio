@@ -19,7 +19,7 @@ function Navbar() {
                     <FontAwesomeIcon icon={faLinkedin} className="fa-2xl"></FontAwesomeIcon>
                </a>
                </div>
-                    <a class="navbar-brand style" href=" #">Hi</a>
+                    <a class="navbar-brand style" href=" #">Welcome!</a>
             </nav>
         </div>
     );
