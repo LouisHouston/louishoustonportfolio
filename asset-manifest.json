@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.27b6a296.css",
-    "main.js": "/static/js/main.1fde7cbf.js",
+    "main.js": "/static/js/main.5057b517.js",
     "static/media/blue-tech-background.jpeg": "/static/media/blue-tech-background.7d17bf6e1948b0dd8112.jpeg",
     "index.html": "/index.html",
     "main.27b6a296.css.map": "/static/css/main.27b6a296.css.map",
-    "main.1fde7cbf.js.map": "/static/js/main.1fde7cbf.js.map"
+    "main.5057b517.js.map": "/static/js/main.5057b517.js.map"
   },
   "entrypoints": [
     "static/css/main.27b6a296.css",
-    "static/js/main.1fde7cbf.js"
+    "static/js/main.5057b517.js"
   ]
 }
